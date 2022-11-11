@@ -9,6 +9,6 @@ I’m currently learning how to work Github
 
 I’m looking for help with creating a plugin to allow Minecraft players to purchase schematics as a one time purchase, and place on a region they own, using something like Constructor to build the schematic.
 
-You can reach me on Discord Dragonclaw103#9469
+You can reach me on Discord https://discord.gg/BWMCmFM3ud
 
 I also love working with BEST Robotics Competitions.
