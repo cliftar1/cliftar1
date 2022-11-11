@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello,
 
-<!--
-**cliftar1/cliftar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Github username is cliftar1, but I have been known for many years as Dragonclaw103 in minecraft and youtube.
+Here is my Youtube channel.  Its short and sweet.  https://www.youtube.com/channel/UCvEQJjTjdqa2idqM8ypPCSA
 
-Here are some ideas to get you started:
+I’m currently working on videos for AdvancedRegionMarket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning how to work Github
+
+I’m looking for help with creating a plugin to allow Minecraft players to purchase schematics as a one time purchase, and place on a region they own, using something like Constructor to build the schematic.
+
+You can reach me on Discord Dragonclaw103#9469
+
+I also love working with BEST Robotics Competitions.
