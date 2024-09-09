@@ -1,6 +1,6 @@
 Hello,
 
-My Github username is cliftar1, but I have been known for many years as Dragonclaw103 in minecraft and youtube.
+My Github username is Cliftar1, but I have been known for many years as Dragonclaw103 in minecraft and youtube.
 Here is my Youtube channel.  Its short and sweet.  https://www.youtube.com/channel/UCvEQJjTjdqa2idqM8ypPCSA
 
 I’m currently working on videos for AdvancedRegionMarket
